@@ -1,1 +1,3 @@
 # Sayan_Frontend_Project
+
+This project is a Java web application developed using NetBeans IDE, designed to manage user profile details through servlets and a structured front-end built with HTML and CSS. The core logic resides in the `Index.java` servlet, which processes HTTP requests and responses. The project uses the standard Java EE structure, with servlets placed under `src/java/servletpack` and web resources in the `web` directory. NetBeans simplifies the build, compile, and deployment process by integrating the servlet API and managing configurations internally. This setup provides a clean and practical environment for learning Java servlets and developing web applications without external server setup.
